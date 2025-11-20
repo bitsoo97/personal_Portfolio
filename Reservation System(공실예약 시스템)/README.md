@@ -8,13 +8,16 @@
 
 - **n8n화면**
 
-![image.png](image.png)
+<img width="1459" height="730" alt="n8n_workflow" src="https://github.com/user-attachments/assets/0fd5ddb4-9766-42e8-8df4-12d7da4fdd6f" />
+
 
 - **예약화면**
 
-![image.png](image%201.png)
+<img width="1896" height="915" alt="reservation system_monitor1" src="https://github.com/user-attachments/assets/0690a419-5f74-4c89-921b-d18445d05071" />
 
-![image.png](image%202.png)
+
+<img width="1063" height="256" alt="reservation system_monitor2" src="https://github.com/user-attachments/assets/339dc6f1-0360-4d6e-9192-c07cd8f68673" />
+
 
 ## 📃 목차
 
