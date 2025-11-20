@@ -94,7 +94,7 @@
 4. 구글 클라우드에 reservation system_DB파일 업로드 및 구글 스프레드 시트 노드에 연결
 5. reservation system_DB에서 확장프로그램을 통해 App Script 작성
     - reservation system_script.txt, reservation system_HTML.txt 속 내용 복사 붙여넣기
-6. reservation system_backend 내용 수정
+6. reservation system_script 내용 수정
     - 구글 스프레드 시트 연결
         - const SPREADSHEET_ID = 'reservation system_DB 구글스프레드시트 ID'
     - 웹훅 연결
