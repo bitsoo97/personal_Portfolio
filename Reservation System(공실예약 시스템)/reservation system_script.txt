@@ -1,12 +1,12 @@
 /*** 스프레드시트/시트 설정 ***/
-const SPREADSHEET_ID = '1uNTy2x_V4eOz5hEvh9Z0F370I8t6sHVTTkr8K093vmk';
+const SPREADSHEET_ID = 'reservation system_DB 구글스프레드시트 ID'; // ✅ 변경
 const SHEET_NAME     = '예약페이지';
 // 예약 상태 컬럼 (I열)
 const STATUS_COL     = 9;  // 1-based index, I
 
 /*** 외부 시스템(Webhook) 설정 ***/
-const N8N         = 'https://n8n.ggplab.xyz/webhook/reserve-notify';       // 예약내용 호출용
-const N8N_CANCEL  = 'https://n8n.ggplab.xyz/webhook/reserve-cancel';       // ✅ 예약 취소 호출용
+const N8N         = '예약등록 트리거 웹훅 url';       // ✅ 변경
+const N8N_CANCEL  =  '예약취소 트리거 웹훅 url';       // ✅ 변경
 
 /*** 공통 유틸 ***/
 // 시간 문자열을 항상 'HH:mm'으로 정규화 (예: '9', '9:0', '9:00' -> '09:00')
@@ -439,3 +439,4 @@ function cancelReservation(row) {
 function include(filename) {
   return HtmlService.createHtmlOutputFromFile(filename).getContent();
 }
+
