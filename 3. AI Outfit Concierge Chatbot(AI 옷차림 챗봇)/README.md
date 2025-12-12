@@ -4,14 +4,13 @@
 AI 코디봇(AI Outfit Concierge)** 은사용자가 입력한 **도시의 실시간 날씨·공기질·바람·기온**과사용자의 **TPO(상황: 면접·데이트·반려동물 산책·여행 등)** 를 결합하여 맞춤형 **옷차림·준비물·안전 조언**을 제공하는 지능형 코디네이터입니다.
 > 
 - 워크플로우
+<img width="1207" height="581" alt="워크플로우" src="https://github.com/user-attachments/assets/c6f8bb1e-1e82-4964-a537-c1e9fa849bc8" />
+<img width="559" height="697" alt="AI Outfit Concierge Chatbot City" src="https://github.com/user-attachments/assets/448ad716-dae4-4f09-86f1-94b1ad52020c" />
 
-![image.png](image.png)
 
 - 결과물
+<img width="921" height="955" alt="챗봇화면" src="https://github.com/user-attachments/assets/c9744497-5808-4cc2-acf9-703e1b6be2ef" />
 
-![image.png](image%201.png)
-
-![image.png](image%202.png)
 
 ---
 
