@@ -28,7 +28,8 @@
 
 종목코드 입력 시 관련 종목/산업(WICS)을 API로 조회해 DB에 자동 저장
 
-![image.png](image.png)
+<img width="720" height="281" alt="관련종목, 코드 세팅" src="https://github.com/user-attachments/assets/1185522b-c76c-450a-b12b-9dfaa1663be7" />
+
 
 ### 2) 10분 주기 스냅샷 수집 + 알림
 
@@ -36,29 +37,34 @@
 
 목표가/목표 등락률 도달 시 카카오톡 메시지 발송
 
-![image.png](image%201.png)
+<img width="719" height="234" alt="스냅샷_누적" src="https://github.com/user-attachments/assets/ea7f729c-ca8b-47ec-907a-6cc90352fe2c" />
+
 
 ### 3) 데일리 주식 리포트 생성
 
 19시에 최근 7일 데이터를 집계 → OpenAI로 분석 리포트 작성 → Gmail 발송
 
-![image.png](image%202.png)
+<img width="719" height="214" alt="데일리리포트_작성" src="https://github.com/user-attachments/assets/0815d6dc-8e18-45d6-8166-f3da0dfc78ba" />
+
 
 ## 🗃 Google Sheets DB 구조
 
 스냅샷 데이터 누적
 
-![image.png](image%203.png)
+<img width="1804" height="468" alt="데이터베이스" src="https://github.com/user-attachments/assets/88bc82f7-1063-463f-8994-93832378555a" />
+
 
 ## 📧 결과물 예시
 
 알림 메시지
 
-![image.png](image%204.png)
+<img width="668" height="1125" alt="알림 결과" src="https://github.com/user-attachments/assets/b9b5c8c0-a6af-4d7d-a03f-a13ec9d9a8f7" />
+
 
 - 알림과 리포트 발송
 
-![image.png](image%205.png)
+<img width="1906" height="912" alt="데일리리포트 결과" src="https://github.com/user-attachments/assets/63c34302-0541-4927-92f3-5080bb86c2df" />
+
 
 # 1. 문제정의
 
